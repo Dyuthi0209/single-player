@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 5px solid black;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 0px;
+}
+
+p{
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.i{
+
+  position:absolute;
+  width: 3cm;
+  top: 300px;
+ 
+  }
